@@ -10,3 +10,6 @@ Applying PCA
 
 Applying DWT
 ![image](https://user-images.githubusercontent.com/64511281/148642027-ac4d2810-ceb7-43a1-9c1d-2df69c928fa9.png)
+
+Final result after Hybridisation
+![image](https://user-images.githubusercontent.com/64511281/148642388-24b4a22d-6044-4744-9817-2ca2fb4bedab.png)
